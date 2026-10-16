@@ -1,0 +1,29 @@
+{ 
+	"sessions": [
+		{
+			"id": 1,
+			"name": "Desktop Sales Windows",
+			"protocol": "rpd",
+			"host": "192.168.1.100",
+			"port": 3389,
+			"resolution": "1920x1080"
+		},
+		{
+			"id": 2,
+			"name": "Desktop Citrix Simulation",
+			"protocol": "citrix",
+			"host": "192.168.1.110",
+			"port": 1494,
+			"resolution": "1600x900"
+
+		},
+		{
+			"id": 3,
+			"name": "Test Local Server",
+			"protocol": "rpd",
+			"host": "127.0.0.1",
+			"port": 3389,
+			"resolution": "1280x720"
+		}
+	]
+}

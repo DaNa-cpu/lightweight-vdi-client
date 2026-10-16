@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_LightweightVdiClient_FILE /home/dana/lightweight-vdi-client/build/LightweightVdiClient)
+set(__QT_DEPLOY_TARGET_LightweightVdiClient_TYPE EXECUTABLE)

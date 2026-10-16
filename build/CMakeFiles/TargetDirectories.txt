@@ -1,0 +1,5 @@
+/home/dana/lightweight-vdi-client/build/CMakeFiles/LightweightVdiClient.dir
+/home/dana/lightweight-vdi-client/build/CMakeFiles/edit_cache.dir
+/home/dana/lightweight-vdi-client/build/CMakeFiles/rebuild_cache.dir
+/home/dana/lightweight-vdi-client/build/CMakeFiles/LightweightVdiClient_autogen_timestamp_deps.dir
+/home/dana/lightweight-vdi-client/build/CMakeFiles/LightweightVdiClient_autogen.dir
